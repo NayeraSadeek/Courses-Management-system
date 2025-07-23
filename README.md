@@ -36,7 +36,7 @@ The Course Management System is a web application developed using Laravel, desig
 - Composer
 - MySQL (or any supported database)
 - laravel Framework
-- 
+  
 ## ⚙️ Installation
 1-Clone Repository
 git clone 
